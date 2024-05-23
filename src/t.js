@@ -1,0 +1,1 @@
+var t = require( '../dist' ).default;

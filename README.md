@@ -1,8 +1,8 @@
 # Clone Total
 
-Regular clonedeep including all instances implementing the `clone` and the `cloneNode` methods
+Regular clonedeep including all instances implementing the `clone` and the `cloneNode` methods.
 
-Built on of the lodash.clondeepwith package.<br />
+This is an unscoped version of the [@webkrafters/clone-total](https://www.npmjs.com/package/@webkrafters/clone-total) package.
 
 **Install:**\
 npm i -S clone-total\

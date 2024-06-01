@@ -7,6 +7,9 @@
   "contributors": [
     "steveswork <stephen.isienyi@gmail.com> (https://github.com/steveswork)"
   ],
+  "dependencies": {
+    "@webkrafters/clone-total": "^1.0.1"
+  },
   "description": "DX Friendly wrapper for @webkrafters/clone-total package.",
   "devDependencies": {
     "@babel/cli": "^7.17.0",
@@ -67,8 +70,5 @@
     "test:watch": "jest --updateSnapshot --watchAll"
   },
   "types": "dist/index.d.ts",
-  "version": "0.0.3",
-  "dependencies": {
-    "@webkrafters/clone-total": "^0.0.3"
-  }
+  "version": "1.0.0"
 }
